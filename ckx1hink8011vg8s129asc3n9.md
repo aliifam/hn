@@ -6,7 +6,7 @@ Wappalyzer is a tool in the form of a website or browser extension to detect the
 
 Wappalyzer also opens the source code on GitHub so we can contribute to the project, the last few days I checked my Hashnode blog and it turns out that no one has submitted and hasnode has not been detected by Wappalyzer, that's why I contributed to Wappalyzer and submitted some regular expression code to detect Hashnode blog technology. 
 
-to contribute in Wappalyzer is also fairly simple and easy, here are the steps:
+To contribute in Wappalyzer is also fairly simple and easy, here are the steps:
 1. open the [Wappalyzer repository](https://github.com/AliasIO/wappalyzer)  on GitHub.
 2. read the documentation and pattern files of the project in the README file so we can better understand how Wappalyzer works.
 3. read the CONTRIBUTING.md file so we can know how to contribute to the project properly.
